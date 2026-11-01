@@ -1,0 +1,27 @@
+﻿# Large video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Generated output
+runs/
+outputs/
+results/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
